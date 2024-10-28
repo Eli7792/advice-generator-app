@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="output.css">
 </head>
 <body>
-    <h1>Test</h1>
+    <h1 class="text-red-500">Test</h1>
     
 </body>
 </html>
